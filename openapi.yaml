@@ -1,0 +1,15 @@
+openapi: 3.0.3
+info:
+  title: EasyShop Products APIs Definition
+  description: |
+    Using this OpenApi Specification, any Consumer can Understand the APIs that are Exposed by EasyShop
+  termsOfService: https://easyshop.com/terms/
+  contact:
+    name: API Support
+    url: https://www.easyshop.com/support
+    email: support@easyshop.com
+  license: 
+    name: EasyShop 2.0
+    url: https://www.easyshop.com/licenses/LICENSE-2.0.html
+  version: 0.0.1
+paths: {}
